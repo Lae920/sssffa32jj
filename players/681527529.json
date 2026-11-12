@@ -1,6 +1,6 @@
 {
     "uid": "681527529",
-    "lastSyncTime": "2026-11-12T03:47:34.7188680Z",
+    "lastSyncTime": "2026-11-12T03:47:54.8383571Z",
     "firstRun": {
         "uid": "681527529",
         "firstRunTime": "2026-11-12T03:35:27.1573747Z",
@@ -21,14 +21,16 @@
         "hasSavedKeyBindings": false,
         "pauseKeyCode": 0,
         "fastForwardKeyCode": 0,
-        "playedStageIds": [],
-        "lastStageId": "",
-        "lastStageName": "",
-        "lastStageScene": "",
-        "lastStageEnemies": "",
-        "lastStageTotalWaves": 0,
+        "playedStageIds": [
+            "1-1"
+        ],
+        "lastStageId": "1-1",
+        "lastStageName": "A1-1",
+        "lastStageScene": "A1-1",
+        "lastStageEnemies": "DragonBones_Enemy",
+        "lastStageTotalWaves": 10,
         "lastStageMusic": "",
-        "lastStageRules": "",
-        "lastStagePlayedTime": ""
+        "lastStageRules": "ตัวละครสูงสุด ไม่จำกัด | วางซ้ำ: ไม่ได้ | วางใหม่หลังตาย: ไม่ได้ | คูลดาวน์เก็บกลับ 25 วิ",
+        "lastStagePlayedTime": "2026-11-12T03:47:51.4175981Z"
     }
 }
