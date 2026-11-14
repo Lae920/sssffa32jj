@@ -1,6 +1,6 @@
 {
     "uid": "681527529",
-    "lastSyncTime": "2026-11-14T10:15:34.6251062Z",
+    "lastSyncTime": "2026-11-14T10:15:47.9189279Z",
     "firstRun": {
         "uid": "681527529",
         "firstRunTime": "2026-11-12T03:35:27.1573747Z",
@@ -18,9 +18,9 @@
         "playerPosY": 0.0,
         "playerPosZ": 0.0,
         "hasSavedPlayerPosition": false,
-        "hasSavedKeyBindings": false,
-        "pauseKeyCode": 0,
-        "fastForwardKeyCode": 0,
+        "hasSavedKeyBindings": true,
+        "pauseKeyCode": 32,
+        "fastForwardKeyCode": 102,
         "playedStageIds": [
             "1-1"
         ],
