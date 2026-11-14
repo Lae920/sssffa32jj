@@ -1,6 +1,6 @@
 {
     "uid": "681527529",
-    "lastSyncTime": "2026-11-14T09:42:52.9680878Z",
+    "lastSyncTime": "2026-11-14T10:15:12.6817679Z",
     "firstRun": {
         "uid": "681527529",
         "firstRunTime": "2026-11-12T03:35:27.1573747Z",
@@ -11,9 +11,9 @@
     "userData": {
         "uid": "681527529",
         "firstEntryTime": "2026-11-12T03:35:27.1573747Z",
-        "lastLoginTime": "2026-11-14T09:42:49.3420430Z",
+        "lastLoginTime": "2026-11-14T10:15:08.6560129Z",
         "hasInternetAtFirstEntry": true,
-        "hasInternetNow": false,
+        "hasInternetNow": true,
         "playerPosX": 0.0,
         "playerPosY": 0.0,
         "playerPosZ": 0.0,
