@@ -1,6 +1,6 @@
 {
     "uid": "681527529",
-    "lastSyncTime": "2026-11-17T03:09:56.6342161Z",
+    "lastSyncTime": "2026-11-17T03:10:14.8249280Z",
     "firstRun": {
         "uid": "681527529",
         "firstRunTime": "2026-11-12T03:35:27.1573747Z",
@@ -25,12 +25,12 @@
             "1-1"
         ],
         "lastStageId": "1-1",
-        "lastStageName": "A1-1",
-        "lastStageScene": "A1-1",
+        "lastStageName": "RA-3",
+        "lastStageScene": "RA-3",
         "lastStageEnemies": "DragonBones_Enemy",
         "lastStageTotalWaves": 10,
         "lastStageMusic": "",
-        "lastStageRules": "ตัวละครสูงสุด ไม่จำกัด | วางซ้ำ: ไม่ได้ | วางใหม่หลังตาย: ไม่ได้ | คูลดาวน์เก็บกลับ 25 วิ",
-        "lastStagePlayedTime": "2026-11-17T02:58:13.6546221Z"
+        "lastStageRules": "ตัวละครสูงสุด 8 | วางซ้ำ: ไม่ได้ | วางใหม่หลังตาย: ไม่ได้ | คูลดาวน์เก็บกลับ 25 วิ",
+        "lastStagePlayedTime": "2026-11-17T03:10:11.3751301Z"
     }
 }
