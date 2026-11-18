@@ -1,6 +1,6 @@
 {
     "uid": "681527529",
-    "lastSyncTime": "2026-11-18T08:21:24.1976921Z",
+    "lastSyncTime": "2026-11-18T08:21:40.7542504Z",
     "firstRun": {
         "uid": "681527529",
         "firstRunTime": "2026-11-12T03:35:27.1573747Z",
@@ -31,6 +31,6 @@
         "lastStageTotalWaves": 10,
         "lastStageMusic": "",
         "lastStageRules": "ตัวละครสูงสุด 8 | วางซ้ำ: ไม่ได้ | วางใหม่หลังตาย: ไม่ได้ | คูลดาวน์เก็บกลับ 25 วิ",
-        "lastStagePlayedTime": "2026-11-17T11:23:19.3256545Z"
+        "lastStagePlayedTime": "2026-11-18T08:21:37.3320996Z"
     }
 }
