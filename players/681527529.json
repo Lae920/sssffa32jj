@@ -1,6 +1,6 @@
 {
     "uid": "681527529",
-    "lastSyncTime": "2026-11-18T10:18:40.0942712Z",
+    "lastSyncTime": "2026-11-20T15:50:21.9649134Z",
     "firstRun": {
         "uid": "681527529",
         "firstRunTime": "2026-11-12T03:35:27.1573747Z",
@@ -11,7 +11,7 @@
     "userData": {
         "uid": "681527529",
         "firstEntryTime": "2026-11-12T03:35:27.1573747Z",
-        "lastLoginTime": "2026-11-18T10:17:03.2930340Z",
+        "lastLoginTime": "2026-11-20T15:50:18.1320205Z",
         "hasInternetAtFirstEntry": true,
         "hasInternetNow": true,
         "playerPosX": 0.0,
@@ -27,10 +27,10 @@
         "lastStageId": "1-1",
         "lastStageName": "RA-3",
         "lastStageScene": "RA-3",
-        "lastStageEnemies": "DragonBones_Enemy",
+        "lastStageEnemies": "Lapin_Enemy",
         "lastStageTotalWaves": 10,
         "lastStageMusic": "",
-        "lastStageRules": "ตัวละครสูงสุด 8 | วางซ้ำ: ไม่ได้ | วางใหม่หลังตาย: ไม่ได้ | คูลดาวน์เก็บกลับ 25 วิ",
-        "lastStagePlayedTime": "2026-11-18T10:18:36.1820305Z"
+        "lastStageRules": "ตัวละครสูงสุด 8 | วางซ้ำ: ไม่ได้ | วางใหม่หลังตาย: ไม่ได้ | คูลดาวน์เก็บกลับ 60 วิ",
+        "lastStagePlayedTime": "2026-11-19T18:23:18.0801332Z"
     }
 }
